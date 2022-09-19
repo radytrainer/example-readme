@@ -1,7 +1,7 @@
 # 📌 I. Front End 
 ### ✅ Step 1: Install Dependency Packages
 - [x] cd /front
-> <code> npm install **or** npm i </code>
+> npm install **or** npm i 
 
 ### ✅ Step 2: Update Environment Variables
 - [x] Update <code>env.production</code> and <code>env.development</code> with IP Address of your Backend server
