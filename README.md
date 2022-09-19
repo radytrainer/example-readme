@@ -21,7 +21,7 @@ VUE_APP_API_URL=http://localhost:8000/api
 - [x] If you are in the development environment (Compiles and hot-reloads for development)
 > <code>npm run serve </code> (Normal Vue JS)
 
-> <code>npm run dev </code> (Vue + Vite)
+> <code style="color:red">npm run dev </code> (Vue + Vite)
 - [x] If you are in the production environment (Compiles and minifies for production)
   
 📍 Normal Vue JS:
