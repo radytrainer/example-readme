@@ -34,7 +34,7 @@ VUE_APP_API_URL=http://localhost:8000/api
 
 📍📍📍 Both after build
   
-> <code style="color:red"> npm install --global serve 
+> npm install --global serve 
 
 >  serve -s dist 
 
@@ -45,7 +45,7 @@ VUE_APP_API_URL=http://localhost:8000/api
 >  composer install **or** composer i 
 
 ### ✅ Step 2: Update the Environment Variables
-- [x] copy .env.example  file **to** the .env  file
+- [x] copy **.env.example**  file **to** the **.env**  file
   
 ```
 DB_DATABASE= YOUR_DB_NAME  ✏️
